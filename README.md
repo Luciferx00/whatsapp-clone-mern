@@ -1,4 +1,4 @@
-#This is a whatsapp clone build using MERN full stack.
+## This is a whatsapp clone build using MERN full stack.
 
 ## The front end is build using React .
 The backend is build using MongoDB, ExpressJS, NodeJS, Pusher.
